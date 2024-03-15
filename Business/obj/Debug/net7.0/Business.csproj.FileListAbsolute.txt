@@ -1,0 +1,15 @@
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\bin\Debug\net7.0\Business.dll
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\obj\Debug\net7.0\Business.dll
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\21902234\source\repos\efekaanlule_cproject\Business\obj\Debug\net7.0\ref\Business.dll
